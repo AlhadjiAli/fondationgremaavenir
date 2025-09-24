@@ -91,7 +91,8 @@ const footer = () => {
                 {/* All Rights Reserved */}
 
                 <div className='py-10 lg:flex items-center justify-between border-t border-t-bordertop'>
-                    <h4 className='text-offwhite text-sm text-center lg:text-start font-normal'>@2023 Agency. All Rights Reserved by <Link href="https://adminmart.com/" target="_blank"> Adminmart.com</Link></h4>
+                    {/* <h4 className='text-offwhite text-sm text-center lg:text-start font-normal'>@2023 Fondation Grema Avenir. All Rights Reserved by <Link href="https://adminmart.com/" target="_blank"> Adminmart.com</Link></h4> */}
+                    <h4 className='text-offwhite text-sm text-center lg:text-start font-normal'>@ 2025 Fondation Grema Avenir. All Rights Reserved by <Link href="https://2ag-portofolio.netlify.app//" target="_blank"> 2ag </Link></h4>
                     <div className="flex gap-5 mt-5 lg:mt-0 justify-center lg:justify-start">
                         <h4 className='text-offwhite text-sm font-normal'><Link href="/" target="_blank">Privacy policy</Link></h4>
                         <div className="h-5 bg-bordertop w-0.5"></div>
